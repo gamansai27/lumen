@@ -18,7 +18,7 @@ LUMEN HACKATHON
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Farhan-Shaik22/sheena-biotech-frontend.git
+   git clone https://github.com/gamansai27/lumen.git
    ```
 
 2. Install dependencies:
